@@ -1,2 +1,4 @@
-# SAR-Colorization-ISRO
-This project focuses on colorizing grayscale Synthetic Aperture Radar (SAR) images using Deep Learning models trained on paired SAR and Optical data. The goal is to improve SAR data interpretability for geological and environmental applications by predicting natural colors, enhancing visual analysis and insights.
+Project Overview
+Synthetic Aperture Radar (SAR) imagery is widely used in remote sensing applications due to its ability to capture structural and textural information under all weather conditions, but it lacks color, which can make visual interpretation less intuitive. This project focuses on enhancing the usability of SAR data by developing a Deep Learning-based colorization model that accurately predicts and applies colors to grayscale SAR images. The colorization process aims to improve the interpretability of SAR images, enabling better analysis of geological and environmental features.
+
+The goal is to create a SAR Image Colorization system using paired SAR and Optical images, trained to predict natural colors, with the ultimate objective of producing visually appealing and informative images for geological studies and environmental monitoring.
